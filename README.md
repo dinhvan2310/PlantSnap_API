@@ -1,4 +1,7 @@
+
 # Plant Leaf Detection API
+
+> Plant Snap mobile app: (https://github.com/dinhvan2310/PlantSnap)
 
 This FastAPI application provides an API for detecting plant species and health status based on leaf images. The model is trained on a custom dataset of leaf images and uses a multi-task learning approach to predict both the plant species and health status.
 
