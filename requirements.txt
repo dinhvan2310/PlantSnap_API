@@ -1,0 +1,6 @@
+bson
+fastapi
+tensorflow
+ultralytics
+firebase_admin
+pymongo
