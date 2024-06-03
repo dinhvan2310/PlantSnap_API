@@ -118,7 +118,7 @@ Example Response:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/plant-leaf-detection.git
+git clone https://github.com/dinhvan2310/PlantSnap_API
 ```
 
 2. Create a virtual environment and activate it:
